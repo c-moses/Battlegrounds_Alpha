@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UABattlegroundsWidgetToggle" loc="Objective" />
+            <input name="UACompassToggle" loc="Compass" />
+            <input name="UAGPSToggle" loc="GPS" />
+            <input name="UALeaderboardToggle" loc="Leaderboard" />
+        </actions>
+    </inputs>
+    <preset>
+        <input name="UABattlegroundsWidgetToggle">
+            <btn name="kH" />
+        </input>
+        <input name="UACompassToggle">
+            <btn name="kJ" />
+        </input>
+        <input name="UAGPSToggle">
+            <btn name="kK" />
+        </input>
+        <input name="UALeaderboardToggle">
+            <btn name="kU" />
+        </input>
+    </preset>
+</modded_inputs>
